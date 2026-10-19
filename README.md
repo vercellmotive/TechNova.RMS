@@ -5,6 +5,12 @@ Overview 🧭
 
 The CLI project is a lightweight command-line interface for the TechNova.RMS system. It demonstrates how the application uses abstractions to separate concerns: the CLI calls into the application/service layer, which depends on repository abstractions implemented by the Infra layer. The project targets .NET 10 and is intended for local, single-process scenarios.
 
+Project status & roadmap 🗺️
+-------------------------
+
+- Important: TechNova.RMS is designed as an API project, but the API implementation is not yet complete. The current repository milestone focused on implementing and validating the CLI surface, service-layer logic, and repository abstractions.
+- Next milestone: complete the API layer for TechNova.RMS and, if bandwidth permits, implement a UI that consumes the API. The CLI will continue to serve as the primary integration and testing surface until the API/UI milestones are completed.
+
 How abstractions are used
 -------------------------
 
