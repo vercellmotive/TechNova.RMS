@@ -1,0 +1,6 @@
+@TechNova.RMS_HostAddress = http://localhost:5267
+
+GET {{TechNova.RMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

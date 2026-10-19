@@ -1,0 +1,80 @@
+[
+  {
+    "Id": "proj-1001",
+    "Name": "Customer Portal Revamp",
+    "Description": "Redesign and modernize the customer-facing web portal to improve UX and performance.",
+    "ClientName": "Acme Corp",
+    "StartDate": "2025-10-01T00:00:00Z",
+    "EndDate": "2026-04-30T00:00:00Z",
+    "Status": "InProgress",
+    "Skills": [
+      { "Name": "React", "Description": "Frontend development using React" },
+      { "Name": "C#", "Description": "Backend APIs with .NET" }
+    ]
+  },
+  {
+    "Id": "proj-1002",
+    "Name": "Mobile App Launch",
+    "Description": "Develop and release the native mobile application for iOS and Android.",
+    "ClientName": "TechPartners Ltd",
+    "StartDate": "2026-01-10T00:00:00Z",
+    "EndDate": "2026-08-15T00:00:00Z",
+    "Status": "Planned",
+    "Skills": [
+      { "Name": "React Native", "Description": "Cross-platform mobile development" },
+      { "Name": "UI/UX", "Description": "Design and prototyping" }
+    ]
+  },
+  {
+    "Id": "proj-1003",
+    "Name": "Data Warehouse",
+    "Description": "Build a centralized data warehouse and ETL pipelines for analytics.",
+    "ClientName": "Insights Inc",
+    "StartDate": "2025-06-01T00:00:00Z",
+    "EndDate": "2026-02-28T00:00:00Z",
+    "Status": "Completed",
+    "Skills": [
+      { "Name": "SQL", "Description": "Data modeling and queries" },
+      { "Name": "Python", "Description": "ETL and data processing" }
+    ]
+  },
+  {
+    "Id": "proj-1004",
+    "Name": "AI Chatbot Integration",
+    "Description": "Integrate an AI-powered chatbot into support channels to automate responses.",
+    "ClientName": "HelpDesk Solutions",
+    "StartDate": "2026-03-01T00:00:00Z",
+    "EndDate": "2026-06-30T00:00:00Z",
+    "Status": "InProgress",
+    "Skills": [
+      { "Name": "NLP", "Description": "Natural language processing and intent recognition" },
+      { "Name": "Azure", "Description": "Cloud deployment and services" }
+    ]
+  },
+  {
+    "Id": "proj-1005",
+    "Name": "Compliance Audit",
+    "Description": "Conduct security and compliance audits across core systems.",
+    "ClientName": "Internal",
+    "StartDate": "2025-11-15T00:00:00Z",
+    "EndDate": "2025-12-31T00:00:00Z",
+    "Status": "Completed",
+    "Skills": [
+      { "Name": "Security", "Description": "Application and infrastructure security" },
+      { "Name": "Audit", "Description": "Compliance frameworks and reporting" }
+    ]
+  },
+  {
+    "Id": "proj-1006",
+    "Name": "CRM Migration",
+    "Description": "Migrate legacy CRM data to new cloud-based CRM platform with minimal downtime.",
+    "ClientName": "SalesForce",
+    "StartDate": "2026-05-01T00:00:00Z",
+    "EndDate": "2026-09-30T00:00:00Z",
+    "Status": "Planned",
+    "Skills": [
+      { "Name": "Data Migration", "Description": "Mapping and migration of customer data" },
+      { "Name": "Integration", "Description": "Third-party system integration" }
+    ]
+  }
+]

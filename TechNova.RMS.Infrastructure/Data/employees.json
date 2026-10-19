@@ -1,0 +1,258 @@
+[
+  {
+    "Id": "b3a1f6a2-4f2d-4d9f-9a1c-1a2b3c4d5e6f",
+    "Name": "Alice Johnson",
+    "Email": "alice.johnson@technova.com",
+    "Designation": "Senior Software Engineer",
+    "Department": "Engineering",
+    "EmployementType": "FullTime",
+    "Salary": 120000.00,
+    "IsActive": true,
+    "Allocations": [
+      { "ProjectId": "proj-1001", "Date": "2026-01-15T00:00:00Z", "HoursAllocated": 24 },
+      { "ProjectId": "proj-1002", "Date": "2026-03-01T00:00:00Z", "HoursAllocated": 20 }
+    ],
+    "Skills": [
+      { "Name": "C#", "Description": "Backend development with .NET", "ProficiencyLevel": "Advanced" },
+      { "Name": "SQL", "Description": "Relational database design and queries", "ProficiencyLevel": "Advanced" }
+    ]
+  },
+  {
+    "Id": "d4c2e7b3-5a3e-4b0f-a2b4-2b3c4d5e6f70",
+    "Name": "Bob Smith",
+    "Email": "bob.smith@technova.com",
+    "Designation": "QA Engineer",
+    "Department": "Quality",
+    "EmployementType": "PartTime",
+    "Salary": 60000.00,
+    "IsActive": true,
+    "Allocations": [
+      { "ProjectId": "proj-1001", "Date": "2026-02-10T00:00:00Z", "HoursAllocated": 24 }
+    ],
+    "Skills": [
+      { "Name": "Test Automation", "Description": "Selenium and Playwright experience", "ProficiencyLevel": "Intermediate" }
+    ]
+  },
+  {
+    "Id": "e5d3f8c4-6b4f-4c1f-b3c5-3c4d5e6f7081",
+    "Name": "Carla Gomez",
+    "Email": "carla.gomez@technova.com",
+    "Designation": "Project Manager",
+    "Department": "Delivery",
+    "EmployementType": "Contract",
+    "Salary": 90000.00,
+    "IsActive": true,
+    "Allocations": [
+      { "ProjectId": "proj-1003", "Date": "2026-04-01T00:00:00Z", "HoursAllocated": 24 }
+    ],
+    "Skills": [
+      { "Name": "Agile", "Description": "Scrum master and product delivery", "ProficiencyLevel": "Advanced" }
+    ]
+  },
+  {
+    "Id": "f6e4g9d5-7c5g-4d2g-c4d6-4d5e6f708192",
+    "Name": "Daniel Lee",
+    "Email": "daniel.lee@technova.com",
+    "Designation": "Junior Developer",
+    "Department": "Engineering",
+    "EmployementType": "PartTime",
+    "Salary": 50000.00,
+    "IsActive": true,
+    "Allocations": [],
+    "Skills": [
+      { "Name": "JavaScript", "Description": "Frontend development with React", "ProficiencyLevel": "Beginner" }
+    ]
+  },
+  {
+    "Id": "a7f5h0e6-8d6h-4e3h-d5e7-5e6f708192a3",
+    "Name": "Esha Patel",
+    "Email": "esha.patel@technova.com",
+    "Designation": "Data Analyst",
+    "Department": "Data",
+    "EmployementType": "FullTime",
+    "Salary": 80000.00,
+    "IsActive": false,
+    "Allocations": [
+      { "ProjectId": "proj-1004", "Date": "2025-12-01T00:00:00Z", "HoursAllocated": 10 }
+    ],
+    "Skills": [
+      { "Name": "Python", "Description": "Data processing and analysis", "ProficiencyLevel": "Intermediate" },
+      { "Name": "Power BI", "Description": "Reporting and dashboards", "ProficiencyLevel": "Intermediate" }
+    ]
+  },
+  {
+    "Id": "a9b8c7d6-1f2e-4b3c-8d7e-111111111111",
+    "Name": "Frank Moore",
+    "Email": "frank.moore@technova.com",
+    "Designation": "DevOps Engineer",
+    "Department": "Infrastructure",
+    "EmployementType": "FullTime",
+    "Salary": 110000.00,
+    "IsActive": true,
+    "Allocations": [
+      { "ProjectId": "proj-1001", "Date": "2026-01-20T00:00:00Z", "HoursAllocated": 24 }
+    ],
+    "Skills": [
+      { "Name": "Docker", "Description": "Containerization and orchestration", "ProficiencyLevel": "Advanced" },
+      { "Name": "Kubernetes", "Description": "Cluster administration", "ProficiencyLevel": "Intermediate" }
+    ]
+  },
+  {
+    "Id": "b1c2d3e4-2f3a-4b5c-9d8e-222222222222",
+    "Name": "Grace Kim",
+    "Email": "grace.kim@technova.com",
+    "Designation": "UX Designer",
+    "Department": "Design",
+    "EmployementType": "Contract",
+    "Salary": 75000.00,
+    "IsActive": true,
+    "Allocations": [
+      { "ProjectId": "proj-1002", "Date": "2026-02-15T00:00:00Z", "HoursAllocated": 15 }
+    ],
+    "Skills": [
+      { "Name": "Figma", "Description": "Design and prototyping", "ProficiencyLevel": "Advanced" }
+    ]
+  },
+  {
+    "Id": "c2d3e4f5-3a4b-5c6d-0e9f-333333333333",
+    "Name": "Henry Zhang",
+    "Email": "henry.zhang@technova.com",
+    "Designation": "Database Administrator",
+    "Department": "Data",
+    "EmployementType": "FullTime",
+    "Salary": 95000.00,
+    "IsActive": true,
+    "Allocations": [
+      { "ProjectId": "proj-1003", "Date": "2025-11-01T00:00:00Z", "HoursAllocated": 20 }
+    ],
+    "Skills": [
+      { "Name": "Postgres", "Description": "Database tuning and maintenance", "ProficiencyLevel": "Advanced" }
+    ]
+  },
+  {
+    "Id": "d3e4f5a6-4b5c-6d7e-1f0a-444444444444",
+    "Name": "Irene Novak",
+    "Email": "irene.novak@technova.com",
+    "Designation": "Business Analyst",
+    "Department": "Business",
+    "EmployementType": "PartTime",
+    "Salary": 65000.00,
+    "IsActive": true,
+    "Allocations": [
+      { "ProjectId": "proj-1005", "Date": "2025-11-20T00:00:00Z", "HoursAllocated": 10 }
+    ],
+    "Skills": [
+      { "Name": "Requirements", "Description": "Gathering and documentation", "ProficiencyLevel": "Intermediate" }
+    ]
+  },
+  {
+    "Id": "e4f5a6b7-5c6d-7e8f-2a1b-555555555555",
+    "Name": "Jason Park",
+    "Email": "jason.park@technova.com",
+    "Designation": "Senior Frontend Engineer",
+    "Department": "Engineering",
+    "EmployementType": "FullTime",
+    "Salary": 105000.00,
+    "IsActive": true,
+    "Allocations": [
+      { "ProjectId": "proj-1002", "Date": "2026-03-05T00:00:00Z", "HoursAllocated": 24 }
+    ],
+    "Skills": [
+      { "Name": "React", "Description": "Frontend architecture", "ProficiencyLevel": "Advanced" },
+      { "Name": "TypeScript", "Description": "Strong typing for JS", "ProficiencyLevel": "Advanced" }
+    ]
+  },
+  {
+    "Id": "f5a6b7c8-6d7e-8f9a-3b2c-666666666666",
+    "Name": "Karen O'Neil",
+    "Email": "karen.oneil@technova.com",
+    "Designation": "HR Manager",
+    "Department": "HR",
+    "EmployementType": "FullTime",
+    "Salary": 88000.00,
+    "IsActive": true,
+    "Allocations": [],
+    "Skills": [
+      { "Name": "Recruiting", "Description": "Talent acquisition and onboarding", "ProficiencyLevel": "Advanced" }
+    ]
+  },
+  {
+    "Id": "a1b2c3d4-7e8f-9a0b-4c3d-777777777777",
+    "Name": "Leo Fernandez",
+    "Email": "leo.fernandez@technova.com",
+    "Designation": "Security Engineer",
+    "Department": "Security",
+    "EmployementType": "Contract",
+    "Salary": 98000.00,
+    "IsActive": true,
+    "Allocations": [
+      { "ProjectId": "proj-1006", "Date": "2026-05-10T00:00:00Z", "HoursAllocated": 20 }
+    ],
+    "Skills": [
+      { "Name": "PenTesting", "Description": "Vulnerability assessment", "ProficiencyLevel": "Advanced" }
+    ]
+  },
+  {
+    "Id": "b2c3d4e5-8f9a-0b1c-5d4e-888888888888",
+    "Name": "Maya Rao",
+    "Email": "maya.rao@technova.com",
+    "Designation": "Data Scientist",
+    "Department": "Data",
+    "EmployementType": "FullTime",
+    "Salary": 115000.00,
+    "IsActive": true,
+    "Allocations": [
+      { "ProjectId": "proj-1003", "Date": "2026-01-10T00:00:00Z", "HoursAllocated": 24 }
+    ],
+    "Skills": [
+      { "Name": "Machine Learning", "Description": "Model building and evaluation", "ProficiencyLevel": "Advanced" },
+      { "Name": "Python", "Description": "Data engineering and scripting", "ProficiencyLevel": "Advanced" }
+    ]
+  },
+  {
+    "Id": "c3d4e5f6-9a0b-1c2d-6e5f-999999999999",
+    "Name": "Nina Kovac",
+    "Email": "nina.kovac@technova.com",
+    "Designation": "Support Engineer",
+    "Department": "Support",
+    "EmployementType": "PartTime",
+    "Salary": 45000.00,
+    "IsActive": true,
+    "Allocations": [
+      { "ProjectId": "proj-1001", "Date": "2026-02-01T00:00:00Z", "HoursAllocated": 20 }
+    ],
+    "Skills": [
+      { "Name": "Customer Support", "Description": "Tier-1 and escalation handling", "ProficiencyLevel": "Intermediate" }
+    ]
+  },
+  {
+    "Id": "d4e5f6a7-0b1c-2d3e-7f6a-aaaaaaaaaaaa",
+    "Name": "Oscar Ruiz",
+    "Email": "oscar.ruiz@technova.com",
+    "Designation": "Solution Architect",
+    "Department": "Architecture",
+    "EmployementType": "FullTime",
+    "Salary": 130000.00,
+    "IsActive": true,
+    "Allocations": [
+      { "ProjectId": "proj-1002", "Date": "2026-02-20T00:00:00Z", "HoursAllocated": 24 }
+    ],
+    "Skills": [
+      { "Name": "Systems Design", "Description": "High-level architecture and patterns", "ProficiencyLevel": "Advanced" }
+    ]
+  },
+  {
+    "Id": "e5f6a7b8-1c2d-3e4f-8g7b-bbbbbbbbbbbb",
+    "Name": "Priya Sharma",
+    "Email": "priya.sharma@technova.com",
+    "Designation": "Marketing Specialist",
+    "Department": "Marketing",
+    "EmployementType": "Contract",
+    "Salary": 70000.00,
+    "IsActive": true,
+    "Allocations": [],
+    "Skills": [
+      { "Name": "Content", "Description": "Content strategy and campaigns", "ProficiencyLevel": "Intermediate" }
+    ]
+  }
+]

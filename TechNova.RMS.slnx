@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="TechNova.RMS.Application/TechNova.RMS.Application.csproj" Id="6898ebc9-d620-4a66-b883-f664f40ad28c" />
+  <Project Path="TechNova.RMS.Domain/TechNova.RMS.Domain.csproj" Id="a8dc4ef1-a7c3-44df-9bab-51afe0839803" />
+  <Project Path="TechNova.RMS.Infrastructure/TechNova.RMS.Infrastructure.csproj" Id="cb2af864-7ba3-47d3-b553-985a75813850" />
+  <Project Path="TechNova.RMS.Tests/TechNova.RMS.Tests.csproj" Id="00df79af-94c7-4df6-9505-df5c6fbc2be5" />
+  <Project Path="TechNova.RMS/TechNova.RMS.csproj" Id="6858483e-5701-47a6-8ade-dfc563a1c974" />
+  <Project Path="TechNova.RMS.Cli/TechNova.RMS.Cli.csproj" Id="4f9d8c3a-2b1e-4a6f-9d3e-0b1c2d3e4f5a" />
+</Solution>
